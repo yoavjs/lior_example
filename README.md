@@ -1,2 +1,0 @@
-# lior_example
-blabla
